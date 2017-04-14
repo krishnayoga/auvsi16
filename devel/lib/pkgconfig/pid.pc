@@ -1,0 +1,8 @@
+prefix=/home/aldwinakbar/Dropbox/Projects/campus/team/TRUI/amvui2015/AI/devel
+
+Name: pid
+Description: Description of pid
+Version: 0.0.7
+Cflags: -I/home/aldwinakbar/Dropbox/Projects/campus/team/TRUI/amvui2015/AI/devel/include
+Libs: -L/home/aldwinakbar/Dropbox/Projects/campus/team/TRUI/amvui2015/AI/devel/lib 
+Requires: roscpp std_msgs message_runtime

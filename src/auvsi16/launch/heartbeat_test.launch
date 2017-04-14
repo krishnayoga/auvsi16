@@ -1,0 +1,10 @@
+<launch>
+
+	<param name="/auvsi16/server_ip" value="10.0.2.1" />
+	<param name="/auvsi16/server_port" value="8080" />
+	<param name="/auvsi16/team_code" value="AMVUI" />
+	<param name="/auvsi16/course_type" value="courseA" />
+
+	<node name="heartbeat" pkg="auvsi16" output="screen" type="heartbeat"/>
+
+</launch>

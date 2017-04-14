@@ -1,0 +1,8 @@
+prefix=/home/aldwinakbar/Dropbox/Projects/campus/team/TRUI/amvui2015/AI/devel
+
+Name: auvsi16
+Description: Description of auvsi16
+Version: 0.0.0
+Cflags: -I/home/aldwinakbar/Dropbox/Projects/campus/team/TRUI/amvui2015/AI/devel/include
+Libs: -L/home/aldwinakbar/Dropbox/Projects/campus/team/TRUI/amvui2015/AI/devel/lib 
+Requires: message_runtime

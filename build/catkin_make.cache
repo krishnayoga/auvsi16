@@ -1,0 +1,2 @@
+auvsi16:pid
+-DCATKIN_DEVEL_PREFIX=/home/aldwinakbar/Dropbox/Projects/campus/team/TRUI/amvui2015/AI/devel -DCMAKE_INSTALL_PREFIX=/home/aldwinakbar/Dropbox/Projects/campus/team/TRUI/amvui2015/AI/install -G Unix Makefiles
